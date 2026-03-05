@@ -1,3 +1,17 @@
+/*
+Food Delivery SQL Analysis Project
+Author: Your Name
+Database: fooddeliverydb
+
+Insights:
+1. Revenue & Growth Analysis
+2. Top Performing Customers
+3. Restaurant Performance
+4. Menu Item Analysis
+5. Delivery Performance
+6. Cancellation Analysis
+*/
+CREATE DATABASE fooddeliverydb;
 USE fooddeliverydb;
 
 -- INSIGHT 1: Revenue & Growth Analysis --
