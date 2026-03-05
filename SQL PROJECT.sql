@@ -1,6 +1,6 @@
 /*
 Food Delivery SQL Analysis Project
-Author: Your Name
+Author: Vaibhav Magar
 Database: fooddeliverydb
 
 Insights:
